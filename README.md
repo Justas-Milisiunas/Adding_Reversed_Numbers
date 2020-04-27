@@ -1,1 +1,2 @@
-# Adding_Reversed_Numbers
+# Online Judge 713 - Adding Reversed Numbers solution [Task](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=654)
+![Task image](https://i.imgur.com/yUbDF5G.png)
